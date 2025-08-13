@@ -13,12 +13,19 @@ Load and clean data (fix ratings, handle missing values).
 Explore data with Pandas and visualize with Matplotlib & Seaborn.
 
 Key visuals:
+
 Restaurant types count
+
 Votes by restaurant type
+
 Top-voted restaurants
+
 Online order trends
+
 Ratings distribution
+
 Cost distribution
+
 Heatmap of type vs online order
 
 Tools
